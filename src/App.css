@@ -1,0 +1,9 @@
+
+.parent-one {
+  width:100vw;
+  height:100vh;
+}
+nav {
+  display:flex;
+  flex-direction:row;
+}
