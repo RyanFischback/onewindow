@@ -1,0 +1,12 @@
+main {
+  overflow-y: scroll;
+}
+div {
+  display: grid;
+}
+span {
+  font-size: medium;
+}
+h1 {
+  font-size: large;
+}
